@@ -1,0 +1,12 @@
+body { 
+    background: url(image2.jpeg) no-repeat center center fixed; 
+    background-size:cover;
+}
+
+#myForm{
+    background-color:#f4f4f4;
+    border: 3px solid #555;
+    color:#333;
+    padding:1.5em;
+    border-radius:5px;
+}
